@@ -16,10 +16,7 @@ This project demonstrates **infinite scroll pagination** in Flutter using real A
 
 ## 📽️ Demo Preview
 
-<video width="100%" height="auto" controls>
-  <source src="preview/VID_20250607.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[[Watch the demo](preview/preview.gif)]
 
 ---
 
