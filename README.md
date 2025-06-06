@@ -1,16 +1,32 @@
-# paggination_part_2
+# 📱 Flutter Infinite Scroll Pagination (Real API + Animations)
 
-A new Flutter project.
+This project demonstrates **infinite scroll pagination** in Flutter using real API data from [DummyJSON](https://dummyjson.com). It includes animated list items, error handling, and a clean architecture with a service layer and model.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌐 Real API integration using `https://dummyjson.com/products`
+- 🔁 Infinite scroll with auto-fetching next pages
+- 🧩 Simple architecture (Model + Service + UI)
+- 🎨 Clean animated UI using `TweenAnimationBuilder`
+- ❗ Error indicators for empty, failed, and retry states
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📽️ Demo Preview
+
+<video width="100%" height="auto" controls>
+  <source src="preview/VID_20250607.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## 📦 Dependencies
+
+```bash
+flutter pub add infinite_scroll_pagination
+flutter pub add http
+
+Built with ❤️ by @SohamSagar
